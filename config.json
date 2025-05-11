@@ -1,0 +1,8 @@
+{
+    "c_fare": 2000,
+    "c_usage": 5000,
+    "c_penalty": 0,
+    "c_mnt": 2500,
+    "lambda_total": 200
+}
+
