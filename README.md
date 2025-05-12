@@ -5,10 +5,12 @@ Optimal Fleet Sizing for On-demand Urban Air Mobility using Queueing-Theoretical
 [Byeong Tak Park](https://sites.google.com/view/btpark)  
 Submiteed to [IEEE ITSC 2025](https://ieee-itsc.org/2025/)  
 
+---
+
 ## Installation
 
 ### 1. Clone the Repository
-Clone the repository and install the required packages.
+Clone the repository and install the required packages. 
 
 ```
 # Clone the repository
@@ -32,11 +34,19 @@ Edit the `config.json` file:
 ```
 
 ### 3. Run main.py 
-Run the `main.py`
+Run the `main.py` to analyze the optimal fleet sizing
 
 ```
 python main.py --step all
 ```
+
+To analyze the optimal fleet sizing including the vehicle rebalancing policy schemes, run the `main.py`
+
+```
+python main.py --step rebalancing
+```
+
+---
 
 ## Directory Structure
 
