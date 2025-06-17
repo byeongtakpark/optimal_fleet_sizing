@@ -1,9 +1,9 @@
 # Optimal fleet sizing
 This repository contains code and experiments for paper  
 
-Optimal Fleet Sizing for On-demand Urban Air Mobility using Queueing-Theoretical Approach  
+Optimal Fleet Sizing for On-demand Urban Air Mobility Serivces using Queueing-Theoretical Approach  
 [Byeong Tak Park](https://sites.google.com/view/btpark)  
-Submiteed to [IEEE ITSC 2025](https://ieee-itsc.org/2025/)  
+Submitted to [IEEE ITSC 2025](https://ieee-itsc.org/2025/)  
 
 ---
 
