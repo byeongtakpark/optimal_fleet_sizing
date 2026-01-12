@@ -44,7 +44,7 @@ Results show that:
 - At the optimal fleet size, all vertiports achieved a minimum service availability level between 0.62 and 0.72.
 - Incorporating compensation strategies increases the optimal fleet sizes but reduces profitability.
 
----
+
 ## Citation
 ```bibtex
 @inproceedings{park2025uam,
