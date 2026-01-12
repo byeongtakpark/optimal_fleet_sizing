@@ -40,13 +40,9 @@ The figure below illustrates the candidate vertiport locations used in the study
 ![10 vertiports in Seoul, Republic of Korea](figure/fig_vpt_locations.jpg)
 
 Results show that: 
-- A fleet of 40 vehicles maximizes profit under baseline assumption.
-   <img src="result/fig_obj_function.png" alt="Objective function" width="600"/>
+- A fleet of 40 vehicles maximizes profit under the baseline assumption.
 - At the optimal fleet size, all vertiports achieved a minimum service availability level between 0.62 and 0.72.
-  <img src="result/fig_veh_availability.png" alt="Service Availabilities of 10 vertiports" width="600"/>
-- Incorporating compensation schemes increases the optimal fleet sizes but reduces profitability
-  <img src="result/fig_compen_scheme.png" alt="Sensitivity Analysis of Compensation Schemes" width="600"/>
-
+- Incorporating compensation strategies increases the optimal fleet sizes but reduces profitability.
 
 ---
 ## Citation
